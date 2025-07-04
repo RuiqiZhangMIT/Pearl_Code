@@ -1,4 +1,4 @@
-# Pearl_Code
+# Decoding Nacre: Uncovering Unique Identifiers of Pearl Provenance
 
 These are the code files supporting the findings in paper "Decoding Nacre: Uncovering Unique Identifiers of Pearl Provenance", with co-leading authors Dahyun Kyung and Ruiqi Zhang. 
 
